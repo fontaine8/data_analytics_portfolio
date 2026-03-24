@@ -6,7 +6,7 @@ This repository showcases my projects demonstrating skills in Python, Power BI, 
 
 ## 📊 Projects
 
-### 1. [Customer Segmentation Analysis]([(https://github.com/fontaine8/data_analytics_portfolio/tree/main/customer_segmentation)])
+### 1. [Customer Segmentation Analysis](https://github.com/fontaine8/data_analytics_portfolio/tree/main/customer_segmentation)
 
 
 
@@ -19,7 +19,7 @@ This repository showcases my projects demonstrating skills in Python, Power BI, 
 **Tools:** Python, Pandas, Matplotlib, Seaborn  
 **Key Skills:** RFM analysis, data cleaning, statistical segmentation, business insights
 
-[View Project →]([(https://github.com/fontaine8/data_analytics_portfolio/tree/main/customer_segmentation)])
+[View Project →](https://github.com/fontaine8/data_analytics_portfolio/tree/main/customer_segmentation)
 
 ---
 
@@ -35,7 +35,7 @@ This repository showcases my projects demonstrating skills in Python, Power BI, 
 **Tools:** Power BI Desktop  
 **Key Skills:** DAX measures, data visualization, dashboard design, business metrics
 
-[View Project →]((https://github.com/fontaine8/data_analytics_portfolio/tree/main/sales_dashboard))
+[View Project →](https://github.com/fontaine8/data_analytics_portfolio/tree/main/sales_dashboard)
 
 ---
 
