@@ -40,7 +40,7 @@ Analysis of **£17.74M in revenue** across **36,98K orders** from **5,881 custom
 
 ## Dashboard Preview
 
-![Sales Dashboard](dashboard_screenshot.png)
+[![Sales Dashboard](https://github.com/fontaine8/data_analytics_portfolio/blob/main/sales_dashboard/online_retail_viz.pdf)
 
 
 ## Data Source
