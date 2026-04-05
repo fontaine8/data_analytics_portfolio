@@ -39,10 +39,19 @@ This repository showcases my projects demonstrating skills in Python, Power BI, 
 
 ---
 
-### 3. Sports Analytics *(Coming Soon)*
+### 3. EPL Home Advantage Analysis 
 
-Analysis of [F1/Football/NFL] performance data demonstrating domain expertise in sports analytics.
 
+Statistical analysis of 25 EPL seasons (2000/01 – 2024/25) across 9,380 matches testing whether home advantage is real and which football myths hold up to scrutiny.
+
+* Confirmed home teams win **45.8%** vs **29.5%** for away — statistically significant (p ≈ 0)
+* The fanless 2020/21 season is the **only year in 25** where away wins exceeded home wins
+* Debunked the "second-half away surge" myth (p = 0.846)
+* Found referees book home teams at **13.7%** vs **16.1%** per foul for away sides
+
+**Tools:** Python 3.x &nbsp;**Key Skills:** Hypothesis testing (z-test, Mann-Whitney U), EDA, statistical analysis
+
+[View Project →](https://github.com/fontaine8/data_analytics_portfolio/tree/main/epl_football)
 ---
 
 ## 🛠️ Technical Skills
